@@ -1,0 +1,15 @@
+"C:\tools\iar_8222\arm\bin\armproc.dll" 
+
+"C:\tools\iar_8222\arm\bin\armlmiftdi.dll" 
+
+"C:\personal\bee_scale\bee_scale_iar\Debug\Exe\bee_scale.out" 
+
+--plugin "C:\tools\iar_8222\arm\bin\armbat.dll" 
+
+--device_macro "C:\tools\iar_8222\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+--flash_loader "C:\tools\iar_8222\arm\config\flashloader\TexasInstruments\FlashLM4FxxxHxx.board" 
+
+
+
+
